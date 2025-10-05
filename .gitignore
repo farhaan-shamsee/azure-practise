@@ -4,4 +4,3 @@
 .terraform/
 .terraform.tfstate.lock.info
 terraform.tfvars
-BACKEND-MIGRATION.md
